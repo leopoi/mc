@@ -1,0 +1,13 @@
+{
+  "group": "test",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "test:fddoreblock"
+    }
+  ],
+  "result": {
+    "item": "test:fdddust",
+    "count": 9
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "test",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "test:fdddust"
+    },
+    "1": {
+      "item": "test:fdddust"
+    },
+    "2": {
+      "item": "test:fdddust"
+    },
+    "3": {
+      "item": "test:fdddust"
+    },
+    "4": {
+      "item": "test:fdddust"
+    },
+    "5": {
+      "item": "test:fdddust"
+    },
+    "6": {
+      "item": "test:fdddust"
+    },
+    "7": {
+      "item": "test:fdddust"
+    },
+    "8": {
+      "item": "test:fdddust"
+    }
+  },
+  "result": {
+    "item": "test:fddoreblock",
+    "count": 1
+  }
+}

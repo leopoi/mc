@@ -1,0 +1,11 @@
+{
+  "group": "test",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "ingredient": {
+    "item": "test:fddore"
+  },
+  "result": {
+    "item": "test:fdddust"
+  }
+}
